@@ -1,0 +1,6 @@
+---
+-hosts: localhost
+gather_facts: true
+
+task:
+  -name: run multiple shell co
